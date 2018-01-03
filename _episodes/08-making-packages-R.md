@@ -148,7 +148,7 @@ document()
 {: .r}
 
 Take a look at the package directory now.
-The /man directory has a .Rd file for each .R file with properly formatted documentation.
+The /main directory has a .Rd file for each .R file with properly formatted documentation.
 
 Now, let's load the package and take a look at the documentation.
 
